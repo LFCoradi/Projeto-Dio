@@ -1,2 +1,2 @@
 # Projeto-Dio
-Repositório criado para projeto desafio
+Repositório criado para o primeiro desafio de projeto.
